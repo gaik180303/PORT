@@ -1,0 +1,6 @@
+Scanning completed in 395.905 seconds.
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh SSH-2.0-Cisco-1.25
+
+80/tcp   open  http No banner
+443/tcp   open  https No banner

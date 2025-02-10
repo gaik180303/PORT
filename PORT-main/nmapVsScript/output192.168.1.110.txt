@@ -1,0 +1,12 @@
+Scanning 192.168.1.110 from port 1 to 10000...
+PORT     STATE SERVICE VERSION
+80/tcp   open  http
+443/tcp   open  https
+515/tcp   open  printer
+631/tcp   open  ipp
+5200/tcp   open  targus-getdata
+8018/tcp   open  unknown
+8080/tcp   open  http-alt
+9100/tcp   open  hp-pdl-datastr
+9403/tcp   open  unknown
+duration of scanning is 60.53
